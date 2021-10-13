@@ -1,4 +1,4 @@
-code: five-thousand-image-assets-bundle
+code: one-thousand-image-assets-bundle
 description: five-thousand-image-assets-bundle bundle
 bundle-type: system-level-bundle
 components:
@@ -997,3 +997,10 @@ components:
     - assets/image00990/image00990-descriptor.yaml
     - assets/image00991/image00991-descriptor.yaml
     - assets/image00992/image00992-descriptor.yaml
+    - assets/image00993/image00993-descriptor.yaml
+    - assets/image00994/image00994-descriptor.yaml
+    - assets/image00995/image00995-descriptor.yaml
+    - assets/image00996/image00996-descriptor.yaml
+    - assets/image00997/image00997-descriptor.yaml
+    - assets/image00998/image00998-descriptor.yaml
+    - assets/image00999/image00999-descriptor.yaml
